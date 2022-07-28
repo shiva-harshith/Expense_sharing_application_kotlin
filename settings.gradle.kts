@@ -1,0 +1,1 @@
+rootProject.name = "com.example.ktor-expense_sharing_app"
